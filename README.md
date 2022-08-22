@@ -9,6 +9,8 @@ I mostly work with NodeJS frameworks like NestJS, ExpressJS etc.
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [krishnasagrawal13@gmail.com](mailto:krishnasagrawal13@gmail.com)
 * 🧠  I'm learning System Designs
+* 💬  I like to help and guide Freshers with Job Openings and career guidance. (https://telegram.me/jobsinternshipswale)
+
 
 ### Skills
 
